@@ -14,4 +14,10 @@ keywords: "jekyll, theme"
 # Default career thumbnail image.
 # career-img: "img/timeline/default.jpg"
 
+# Collections
+collections:
+  links:
+    output: false
+
+
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
